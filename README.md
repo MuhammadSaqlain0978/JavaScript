@@ -9,3 +9,8 @@ This is for Git Course Practice
 5. change the branch from master to main => git branch -M main
 6. git push -u origin main
 7. after this command with -u, we can use simple git push
+
+Merge Branches
+  2 Ways,  1=> git merge branch name
+            2=> create Pull Request
+            
