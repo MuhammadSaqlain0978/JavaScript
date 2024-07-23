@@ -1,6 +1,6 @@
 JavaScript Course 
 
-This is for Git Course Practice 
+This is for Git Course Practice (notes prac)
 ~ here I Learned how to upload a local project from machine to remote repo on git
 1. create repo on github
 2. work on your project at local
