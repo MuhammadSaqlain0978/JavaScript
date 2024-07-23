@@ -10,14 +10,7 @@ This is for Git Course Practice and Notes
 6. git push -u origin main
 7. after this command with -u, we can use simple git push
 
-
-Branches
-
-Navigate,Craete, Delete
-Navgaite=> git checkout 'branch name'
-
-Craete=> git checkout -b change-color-freature
-Now go from Main to change-color-: branch  => git checkout change-colot-feature
-
-Delete
-  git bramch -d change-color-freature  (!We can not delete branch in which we already exists, to del the branch, we've to move from that branch to antoher)
+Merge Branches
+  2 Ways,  1=> git merge branch name
+            2=> create Pull Request
+            
